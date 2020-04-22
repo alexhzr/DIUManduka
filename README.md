@@ -1,30 +1,28 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU3_Manduka.  Curso: 2019/20 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Experiencia para compartir cenas
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Vamos a ver una de las plataformas que sirven para compartir ocio, en este caso, cenas o cursos de cocina. Esta es EatWith.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette: Alejandro Manuel Hernández Recio :octocat: (https://github.com/alexhzr)[GitHub]   
+ * :bust_in_silhouette: Juan Carlos Hermoso Quesada :octocat: (https://github.com/jchermoso)[GitHub]
 
 ----- 
 
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
+>>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -34,18 +32,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> El servicio que hemos elegido es EatWith ("AirBnB de comida"). Hay otras alternativas, pero:
+Jaunt ha dejado sólo la app móvil, BonAppetour no parece tener eventos en ciudades
+"pequeñas", y TravelingSpoon tiene pocas ciudades y diseño poco intuitivo. Cesarine nos
+ha gustado mucho pero es sólo en Italia.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos diseñado así las personas porque creemos que son dos arquetipos opuestos que
+conviven hoy día. Ramón es una persona de campo poco familiarizada con la tecnología y Patricia todo lo contrario.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Al ser dos personas con vidas tan distintas, los journey maps resultantes suponen
+situaciones distintas.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
