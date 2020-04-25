@@ -113,6 +113,7 @@ Cuando llegan a este punto, ellos tienen una idea de diseño que les parece buen
 #### Final Mockups
 Aquí diferenciamos dos vertientes. La primera, da una idea bastante aproximada de lo que será tu aplicación, lo que te puede servir para venderla o mostrarla. En la otra, podríamos hablar de un _factor motivación_ que impulsa al equipo. Es muy gratificante ver cuando tus proyectos toman forma.
 
+Para nosotros, los métodos más importantes han sido el Empathy Map, Usability Testing 2nd Round with Hi-Fi Digital Wireframes, Final Mockups y lo explicamos a continuación
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 
