@@ -1,5 +1,7 @@
 # DIU - Practica 3, entregables
 
+![](Imagenes/Logo.png)
+
 ## 1. Análisis de MuseMap   
 
 Vamos a analizar la variedad de métodos UX que han usado los diseñadores de la app **MuseMap**, que busca acercar el arte urbano a los ciudadanos de Londres. El análisis lo hemos hecho en función a [este artículo](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) publicado en su blog.
