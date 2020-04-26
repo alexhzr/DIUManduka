@@ -26,6 +26,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 # Proceso de Diseño 
+![](P3/Imagenes/Logo.png)
 
 ## Paso 1. UX Desk Research & Analisis 
 
