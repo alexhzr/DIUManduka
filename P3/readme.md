@@ -159,5 +159,11 @@ Para la paleta de colores hemos utilizado [Colorhunt](https://colorhunt.co/). La
 
 ## Historia en Video del UX Case Study
 
+https://www.youtube.com/watch?v=EgbcJ9Bucg4
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Para nosotros, esta práctica esta suponiendo una oportunidad para adentrarnos en el reciente mundo del diseño de interfaces de usuario y, en general, del desarrollo del software, conociendo nuevos términos, formas de trabajar, tecnologías, etc. relacionadas con este mundo.
+
+Algunos problemas que hemos tenido han sido dados por nuestro desconocimiento de esta materia recientemente adquirida, ya que somos nuevos en ella y eso nos ha llevado al llamado "ensayo-error" más de una vez.
+
+A pesar de todo, nos quedamos con que estamos aprendiendo mucho y estamos encantados de seguir trabajando en la práctica para lograr buenos y satisfactorios resultados.
