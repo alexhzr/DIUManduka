@@ -1,8 +1,11 @@
 # DIU - Practica 4, entregables
 
 ## Caso 1
+![](https://github.com/RubenDelgadoPareja/DIU20/blob/master/P3/PREVIEW-LOGO+ICON.png)   
 
-Descripcion y hoja de valoración.    
+###Grupo: DIU1.PAPAYA
+###Github: https://github.com/RubenDelgadoPareja/DIU20
+
 
 
 ## Caso 2
