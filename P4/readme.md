@@ -41,20 +41,20 @@
 
 ![](https://raw.githubusercontent.com/MiguelAlberti/DIU20/master/img/Logo.png)   
 
-### Grupo:
-### Github: 
-### Descripción: 
+### Grupo: DIU3.MAP
+### Github: https://github.com/MiguelAlberti/DIU20
+### Descripción: Aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones.
 ### UXCaseStudy_review: https://github.com/alexhzr/DIUManduka/blob/master/P4/DIU3.MAP_UXCaseStudy-review.xlsx
 
 ### Tres puntos fuertes:
-	-
-	-
-	-
+	- Journey maps verosímiles y correctos
+	- Sitemap completo, claro y bien diseñado.
+	- Guideline completo y con información detallada.
 	
 ## Tres puntos débiles:
-	-
-	-
-	-
+	- Análisis de la competitividad sin dar información sobre otras aplicaciones
+	- Falta wireframes de calidad
+	- Vídeo pasado de tiempo
 
 
 ## User Testing
