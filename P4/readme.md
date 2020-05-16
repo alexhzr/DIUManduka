@@ -3,8 +3,8 @@
 ## Caso 1
 ![](https://github.com/RubenDelgadoPareja/DIU20/blob/master/P3/PREVIEW-LOGO+ICON.png)   
 
-###Grupo: DIU1.PAPAYA
-###Github: https://github.com/RubenDelgadoPareja/DIU20
+### Grupo: DIU1.PAPAYA
+### Github: https://github.com/RubenDelgadoPareja/DIU20
 
 
 
