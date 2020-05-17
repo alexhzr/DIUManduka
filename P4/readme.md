@@ -12,7 +12,7 @@
 	- El diseño del logotipo
 	- El sitemap y su contenido
 	- El feedback capture grid y su contenido
-	
+
 ## Tres puntos débiles:
 	- Persona que debería ser ficticia no es ficticia (Lizbeth Rodriguez es youtuber del canal Badabun)
 	- Falta de wireframes de mejor calidad
@@ -30,7 +30,7 @@
 	- Personas ficticias 
 	- Wireframes
 	- Guidelines completos
-	
+
 ## Tres puntos débiles:
 	- No hay logotipo
 	- En el cuadrante de preguntas del feedback capture grid no hay preguntas sino ideas
@@ -50,7 +50,7 @@
 	- Journey maps verosímiles y correctos
 	- Sitemap completo, claro y bien diseñado.
 	- Guideline completo y con información detallada.
-	
+
 ## Tres puntos débiles:
 	- Análisis de la competitividad sin dar información sobre otras aplicaciones
 	- Falta wireframes de calidad
@@ -58,12 +58,27 @@
 
 
 ## User Testing
+### DIU1.PAPAYA
+Ramón quiere irse con su mujer de viaje fuera de España. Como hoy día existen tantísimas plataformas, buscadores de vuelo, etcétera, su hija le propone utilizar travelGraim, para que la búsqueda y reserva de un viaje sea más amena.
 
-	Describe la experiencia 1
+Se descarga y registra en la aplicación, pero se agobia un poco por la cantidad de viajes que aparecen. Quiere sesgar la búsqueda y ajustar un criterio de edad, para viajar con gente que esté más o menos en su rango de edad. Parece ser que no puede hacerlo.
 
-	Describe la experiencia 2
+Decide entonces publicar un anuncio y dejarlo claro en la descripción, pero la gente le contacta sin importar la edad. Borra el anuncio e intenta encontrar uno por última vez. Con suerte, ha conseguido dar con otra pareja de su edad que estaban organizando un viaje, aunque no donde ellos pensaban. Aceptan sin darle mayor importancia y acaban con ese viaje.
 
-	Describe la experiencia 3
+### DIU2.Plata
+Ramón necesita estar dos meses fuera de casa, porque van a hacer algunas reformas. Tiene que alquilar una vivienda durante dos meses, no más, porque después de la reforma ya podrá volver. Descarga Bladi porque su hija encontró el piso así cuando se fue a estudiar fuera.
+
+La aplicación muestra la información de manera clara, un listado de pisos bastante detallado y con las condiciones que él necesitaba, a excepción de que las ofertas no muestran el tiempo mínimo que están dispuestos a alquilar los dueños. Tiene que ir preguntándole y contándole su caso a los dueños de cada anuncio, hasta que da con alguien que se solidariza y acepta.
+
+El problema viene a la hora de hacer los pagos. Ramón prefiere dar el dinero en mano, o hacer una transferencia bancaria a las muy malas. No se fía de realizar el pago mediante la aplicación. Como va a ser para poco tiempo, entre anfitrión e inquilino acuerdan que van a hacer el pago en mano, dejando la plataforma de lado.
+
+### DIU3.Map
+Ramón va a sorprender a su mujer por el aniversario, quiere organizar una experiencia que incluya varias actividades en otra provincia. Se descarga CoNect siguiendo las recomendaciones de un artículo del periódico.
+
+Al registrarse, quiere buscar cosas que sean típicas del lugar, pero no sabe por dónde mirar. Necesitaría que hubiese un apartado de "Seleccionados por el equipo de CoNect" o "Experiencia típica local". Consigue encontrar una buscando primero en Google qué es lo típico de esa ciudad, y después buscándo exactamente los términos.
+
+Finalmente, reserva una plaza sin más problemas.
 
 
 ## Conclusiones
+Se nos ha hecho muy interesante la realización de esta práctica, ya que hemos podido observar cómo han realizado nuestros compañeros sus trabajos. Hay cosas que ellos han tenido en cuenta y nosotros no, y viceversa. En definitiva, una práctica muy agradable.
